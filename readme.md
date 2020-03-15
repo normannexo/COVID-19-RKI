@@ -15,8 +15,10 @@ included files:
 </tr>
 <tr>
 <td>name of federal state</td>
-<td>date inf %Y-%m-%d format</td>
+<td>date in %Y-%m-%d format</td>
 <td># of confirmed cases</td>
 <td># of deaths</td>
 </tr>
 </table>
+
+http://github.com/normannexo/COVID-19-RKI/blob/master/csv/rki_data.csv
