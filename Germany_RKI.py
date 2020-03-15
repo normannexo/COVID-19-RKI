@@ -14,10 +14,7 @@ dir_path = os.path.dirname(os.path.abspath(__file__))
 CSVLOC=os.path.join(dir_path, 'csv', 'archiv')
 CSVOUT = os.path.join(dir_path, 'csv', 'rki_data.csv')
 
-
-# In[35]:
-
-
+# create empty data frame and fill with tables from archive:
 df_data = pd.DataFrame()
 for item in os.listdir(CSVLOC):
     if os.path.isfile(CSVLOC + '/' + item):
@@ -25,7 +22,7 @@ for item in os.listdir(CSVLOC):
         print("added "+ CSVLOC + "/" + item + " to data frame.")
     else:
         print(item + " is no file")
-df_data
+# further wrangling:
 df_data['date']=pd.to_datetime(df_data.date)
 df_data['date'] = df_data.date.dt.strftime('%Y-%m-%d')
 df_data['deaths'] = df_data.confirmed.str.extract(r'\((\d+)\)')
@@ -36,14 +33,13 @@ df_data.drop_duplicates()
 df_data['date'] =pd.to_datetime(df_data.date)
 df_data = df_data.drop(df_data[df_data.Bundesland=='Gesamt'].index)
 df_data = df_data.drop(df_data[df_data.confirmed=='Fälle'].index)
-
-# In[36]:
+# grouping to prevent duplicate entries for one day:
+df_data = df_data.groupby(['Bundesland','date']).agg({'confirmed':'max', 'deaths':'max'})
 
 
 df_data.to_csv(CSVOUT)
 
 
-# In[ ]:
 
 
 print(df_data)
