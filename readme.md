@@ -10,9 +10,9 @@ included files:
 - `rki_merge_cases.py`: combine cases to one single csv file with the following structure:
 
 <table>
-<th>
-<td>Bundesland</td><td></td><td>confirmed</td><td>deaths</td> 
-</th>
+<tr>
+<th>Bundesland</th><th>date</th><th>confirmed</th><th>deaths</th> 
+</tr>
 <tr>
 <td>name of federal state</td>
 <td>date inf %Y-%m-%d format</td>
