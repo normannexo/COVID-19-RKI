@@ -17,8 +17,9 @@ soupurl = requests.get(url).text
 soup = BeautifulSoup(soupurl, 'html.parser')
 main = soup.find('div', {'id':'main'})
 table = main.find('table')
-columns = ['Bundesland', 'confirmed', 'confirmed_el', 'extra']
+columns = ['Bundesland', 'confirmed', 'confirmed_diff','extra',  'deaths', 'extra2']
 df = pd.read_html(str(table))[0]
+print(df)
 df.columns = columns
 df['date'] = pd.to_datetime(curr_minute)
 print(df)
