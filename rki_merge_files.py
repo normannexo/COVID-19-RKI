@@ -24,7 +24,7 @@ for item in os.listdir(CSVLOC):
         print(item + " is no file")
 # further wrangling:
 df_data.deaths.replace({np.nan:0}, inplace=True)
-df_data['date'] =pd.to_datetime(df_data.date)
+df_data['date'] =pd.to_datetime(df_data.date).dt.date
 df_data = df_data.drop(df_data[df_data.Bundesland=='Gesamt'].index)
 df_data = df_data.drop(df_data[df_data.confirmed=='Fälle'].index)
 # grouping to prevent duplicate entries for one day:

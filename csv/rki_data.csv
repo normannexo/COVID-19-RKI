@@ -1,420 +1,276 @@
 Bundesland,date,confirmed,deaths
-Baden-Württemberg,2020-02-29 00:00:00,14,0.0
-Baden-Württemberg,2020-03-01 00:00:00,15,0.0
-Baden-Württemberg,2020-03-02 00:00:00,19,0.0
-Baden-Württemberg,2020-03-03 00:00:00,28,0.0
-Baden-Württemberg,2020-03-04 00:00:00,50,0.0
-Baden-Württemberg,2020-03-05 00:00:00,73,0.0
-Baden-Württemberg,2020-03-06 00:00:00,96,0.0
-Baden-Württemberg,2020-03-07 00:00:00,170,0.0
-Baden-Württemberg,2020-03-08 00:00:00,182,0.0
-Baden-Württemberg,2020-03-09 00:00:00,204,0.0
-Baden-Württemberg,2020-03-10 00:00:00,237,0.0
-Baden-Württemberg,2020-03-11 00:00:00,277,0.0
-Baden-Württemberg,2020-03-12 00:00:00,454,1.0
-Baden-Württemberg,2020-03-13 21:00:00,454.0,1.0
-Baden-Württemberg,2020-03-14 16:01:00,454.0,1.0
-Baden-Württemberg,2020-03-14 21:00:00,569.0,2.0
-Baden-Württemberg,2020-03-15 13:48:00,569.0,2.0
-Baden-Württemberg,2020-03-15 13:50:00,569.0,2.0
-Baden-Württemberg,2020-03-15 13:55:00,569.0,2.0
-Baden-Württemberg,2020-03-15 14:00:00,569.0,2.0
-Baden-Württemberg,2020-03-15 14:33:00,569.0,2.0
-Baden-Württemberg,2020-03-15 21:00:00,827.0,3.0
-Baden-Württemberg,2020-03-16 14:00:00,827.0,3.0
-Baden-Württemberg,2020-03-16 21:00:00,1.105,3.0
-Baden-Württemberg,2020-03-17 14:00:00,1.105,3.0
-Baden-Württemberg,2020-03-18 17:48:00,1.609,2.0
-Baden-Württemberg,2020-03-18 20:37:00,1.609,2.0
-Baden-Württemberg,2020-03-18 21:00:00,1.609,2.0
-Bayern,2020-02-29 00:00:00,15,0.0
-Bayern,2020-03-01 00:00:00,23,0.0
-Bayern,2020-03-02 00:00:00,25,0.0
-Bayern,2020-03-03 00:00:00,37,0.0
-Bayern,2020-03-04 00:00:00,48,0.0
-Bayern,2020-03-05 00:00:00,70,0.0
-Bayern,2020-03-06 00:00:00,117,0.0
-Bayern,2020-03-07 00:00:00,134,0.0
-Bayern,2020-03-08 00:00:00,172,0.0
-Bayern,2020-03-09 00:00:00,256,0.0
-Bayern,2020-03-10 00:00:00,314,0.0
-Bayern,2020-03-11 00:00:00,366,0.0
-Bayern,2020-03-12 00:00:00,500,1.0
-Bayern,2020-03-13 21:00:00,558.0,1.0
-Bayern,2020-03-14 16:01:00,558.0,1.0
-Bayern,2020-03-14 21:00:00,681.0,1.0
-Bayern,2020-03-15 13:48:00,681.0,1.0
-Bayern,2020-03-15 13:50:00,681.0,1.0
-Bayern,2020-03-15 13:55:00,681.0,1.0
-Bayern,2020-03-15 14:00:00,681.0,1.0
-Bayern,2020-03-15 14:33:00,681.0,1.0
-Bayern,2020-03-15 21:00:00,886.0,4.0
-Bayern,2020-03-16 14:00:00,886.0,4.0
-Bayern,2020-03-16 21:00:00,1.067,5.0
-Bayern,2020-03-17 14:00:00,1.067,5.0
-Bayern,2020-03-18 17:48:00,1.2429999999999999,4.0
-Bayern,2020-03-18 20:37:00,1.2429999999999999,4.0
-Bayern,2020-03-18 21:00:00,1.2429999999999999,4.0
-Berlin,2020-03-02 00:00:00,1,0.0
-Berlin,2020-03-03 00:00:00,3,0.0
-Berlin,2020-03-04 00:00:00,7,0.0
-Berlin,2020-03-05 00:00:00,13,0.0
-Berlin,2020-03-06 00:00:00,19,0.0
-Berlin,2020-03-07 00:00:00,28,0.0
-Berlin,2020-03-08 00:00:00,40,0.0
-Berlin,2020-03-09 00:00:00,48,0.0
-Berlin,2020-03-10 00:00:00,48,0.0
-Berlin,2020-03-11 00:00:00,90,0.0
-Berlin,2020-03-12 00:00:00,137,0.0
-Berlin,2020-03-13 21:00:00,174.0,0.0
-Berlin,2020-03-14 16:01:00,174.0,0.0
-Berlin,2020-03-14 21:00:00,216.0,0.0
-Berlin,2020-03-15 13:48:00,216.0,0.0
-Berlin,2020-03-15 13:50:00,216.0,0.0
-Berlin,2020-03-15 13:55:00,216.0,0.0
-Berlin,2020-03-15 14:00:00,216.0,0.0
-Berlin,2020-03-15 14:33:00,216.0,0.0
-Berlin,2020-03-15 21:00:00,265.0,0.0
-Berlin,2020-03-16 14:00:00,265.0,0.0
-Berlin,2020-03-16 21:00:00,300.0,0.0
-Berlin,2020-03-17 14:00:00,300.0,0.0
-Berlin,2020-03-18 17:48:00,391.0,0.0
-Berlin,2020-03-18 20:37:00,391.0,0.0
-Berlin,2020-03-18 21:00:00,391.0,0.0
-Brandenburg,2020-03-03 00:00:00,1,0.0
-Brandenburg,2020-03-04 00:00:00,1,0.0
-Brandenburg,2020-03-05 00:00:00,1,0.0
-Brandenburg,2020-03-06 00:00:00,2,0.0
-Brandenburg,2020-03-07 00:00:00,2,0.0
-Brandenburg,2020-03-08 00:00:00,4,0.0
-Brandenburg,2020-03-09 00:00:00,6,0.0
-Brandenburg,2020-03-10 00:00:00,9,0.0
-Brandenburg,2020-03-11 00:00:00,24,0.0
-Brandenburg,2020-03-12 00:00:00,30,0.0
-Brandenburg,2020-03-13 21:00:00,44.0,0.0
-Brandenburg,2020-03-14 16:01:00,44.0,0.0
-Brandenburg,2020-03-14 21:00:00,61.0,0.0
-Brandenburg,2020-03-15 13:48:00,61.0,0.0
-Brandenburg,2020-03-15 13:50:00,61.0,0.0
-Brandenburg,2020-03-15 13:55:00,61.0,0.0
-Brandenburg,2020-03-15 14:00:00,61.0,0.0
-Brandenburg,2020-03-15 14:33:00,61.0,0.0
-Brandenburg,2020-03-15 21:00:00,84.0,0.0
-Brandenburg,2020-03-16 14:00:00,84.0,0.0
-Brandenburg,2020-03-16 21:00:00,94.0,0.0
-Brandenburg,2020-03-17 14:00:00,94.0,0.0
-Brandenburg,2020-03-18 17:48:00,92.0,0.0
-Brandenburg,2020-03-18 20:37:00,92.0,0.0
-Brandenburg,2020-03-18 21:00:00,92.0,0.0
-Bremen,2020-03-01 00:00:00,1,0.0
-Bremen,2020-03-02 00:00:00,1,0.0
-Bremen,2020-03-03 00:00:00,2,0.0
-Bremen,2020-03-04 00:00:00,3,0.0
-Bremen,2020-03-05 00:00:00,3,0.0
-Bremen,2020-03-06 00:00:00,4,0.0
-Bremen,2020-03-07 00:00:00,4,0.0
-Bremen,2020-03-08 00:00:00,4,0.0
-Bremen,2020-03-09 00:00:00,4,0.0
-Bremen,2020-03-10 00:00:00,4,0.0
-Bremen,2020-03-11 00:00:00,21,0.0
-Bremen,2020-03-12 00:00:00,38,0.0
-Bremen,2020-03-13 21:00:00,42.0,0.0
-Bremen,2020-03-14 16:01:00,42.0,0.0
-Bremen,2020-03-14 21:00:00,50.0,0.0
-Bremen,2020-03-15 13:48:00,50.0,0.0
-Bremen,2020-03-15 13:50:00,50.0,0.0
-Bremen,2020-03-15 13:55:00,50.0,0.0
-Bremen,2020-03-15 14:00:00,50.0,0.0
-Bremen,2020-03-15 14:33:00,50.0,0.0
-Bremen,2020-03-15 21:00:00,53.0,0.0
-Bremen,2020-03-16 14:00:00,53.0,0.0
-Bremen,2020-03-16 21:00:00,56.0,0.0
-Bremen,2020-03-17 14:00:00,56.0,0.0
-Bremen,2020-03-18 17:48:00,69.0,0.0
-Bremen,2020-03-18 20:37:00,69.0,0.0
-Bremen,2020-03-18 21:00:00,69.0,0.0
-Hamburg,2020-03-01 00:00:00,1,0.0
-Hamburg,2020-03-02 00:00:00,1,0.0
-Hamburg,2020-03-03 00:00:00,2,0.0
-Hamburg,2020-03-04 00:00:00,3,0.0
-Hamburg,2020-03-05 00:00:00,5,0.0
-Hamburg,2020-03-06 00:00:00,11,0.0
-Hamburg,2020-03-07 00:00:00,13,0.0
-Hamburg,2020-03-08 00:00:00,13,0.0
-Hamburg,2020-03-09 00:00:00,17,0.0
-Hamburg,2020-03-10 00:00:00,29,0.0
-Hamburg,2020-03-11 00:00:00,48,0.0
-Hamburg,2020-03-12 00:00:00,88,0.0
-Hamburg,2020-03-13 21:00:00,99.0,0.0
-Hamburg,2020-03-14 16:01:00,99.0,0.0
-Hamburg,2020-03-14 21:00:00,158.0,0.0
-Hamburg,2020-03-15 13:48:00,158.0,0.0
-Hamburg,2020-03-15 13:50:00,158.0,0.0
-Hamburg,2020-03-15 13:55:00,158.0,0.0
-Hamburg,2020-03-15 14:00:00,158.0,0.0
-Hamburg,2020-03-15 14:33:00,158.0,0.0
-Hamburg,2020-03-15 21:00:00,162.0,0.0
-Hamburg,2020-03-16 14:00:00,162.0,0.0
-Hamburg,2020-03-16 21:00:00,260.0,0.0
-Hamburg,2020-03-17 14:00:00,260.0,0.0
-Hamburg,2020-03-18 17:48:00,358.0,0.0
-Hamburg,2020-03-18 20:37:00,358.0,0.0
-Hamburg,2020-03-18 21:00:00,358.0,0.0
-Hessen,2020-02-29 00:00:00,3,0.0
-Hessen,2020-03-01 00:00:00,8,0.0
-Hessen,2020-03-02 00:00:00,10,0.0
-Hessen,2020-03-03 00:00:00,12,0.0
-Hessen,2020-03-04 00:00:00,12,0.0
-Hessen,2020-03-05 00:00:00,14,0.0
-Hessen,2020-03-06 00:00:00,16,0.0
-Hessen,2020-03-07 00:00:00,17,0.0
-Hessen,2020-03-08 00:00:00,19,0.0
-Hessen,2020-03-09 00:00:00,26,0.0
-Hessen,2020-03-10 00:00:00,35,0.0
-Hessen,2020-03-11 00:00:00,48,0.0
-Hessen,2020-03-12 00:00:00,99,0.0
-Hessen,2020-03-13 21:00:00,148.0,0.0
-Hessen,2020-03-14 16:01:00,148.0,0.0
-Hessen,2020-03-14 21:00:00,203.0,0.0
-Hessen,2020-03-15 13:48:00,203.0,0.0
-Hessen,2020-03-15 13:50:00,203.0,0.0
-Hessen,2020-03-15 13:55:00,203.0,0.0
-Hessen,2020-03-15 14:00:00,203.0,0.0
-Hessen,2020-03-15 14:33:00,203.0,0.0
-Hessen,2020-03-15 21:00:00,286.0,0.0
-Hessen,2020-03-16 14:00:00,286.0,0.0
-Hessen,2020-03-16 21:00:00,342.0,0.0
-Hessen,2020-03-17 14:00:00,342.0,0.0
-Hessen,2020-03-18 17:48:00,432.0,0.0
-Hessen,2020-03-18 20:37:00,432.0,0.0
-Hessen,2020-03-18 21:00:00,432.0,0.0
-Mecklenburg-Vorpommern,2020-03-04 00:00:00,4,0.0
-Mecklenburg-Vorpommern,2020-03-05 00:00:00,4,0.0
-Mecklenburg-Vorpommern,2020-03-06 00:00:00,5,0.0
-Mecklenburg-Vorpommern,2020-03-07 00:00:00,5,0.0
-Mecklenburg-Vorpommern,2020-03-08 00:00:00,8,0.0
-Mecklenburg-Vorpommern,2020-03-09 00:00:00,10,0.0
-Mecklenburg-Vorpommern,2020-03-10 00:00:00,13,0.0
-Mecklenburg-Vorpommern,2020-03-11 00:00:00,17,0.0
-Mecklenburg-Vorpommern,2020-03-12 00:00:00,23,0.0
-Mecklenburg-Vorpommern,2020-03-13 21:00:00,33.0,0.0
-Mecklenburg-Vorpommern,2020-03-14 16:01:00,33.0,0.0
-Mecklenburg-Vorpommern,2020-03-14 21:00:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 13:48:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 13:50:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 13:55:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 14:00:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 14:33:00,45.0,0.0
-Mecklenburg-Vorpommern,2020-03-15 21:00:00,50.0,0.0
-Mecklenburg-Vorpommern,2020-03-16 14:00:00,50.0,0.0
-Mecklenburg-Vorpommern,2020-03-16 21:00:00,51.0,0.0
-Mecklenburg-Vorpommern,2020-03-17 14:00:00,51.0,0.0
-Mecklenburg-Vorpommern,2020-03-18 17:48:00,56.0,0.0
-Mecklenburg-Vorpommern,2020-03-18 20:37:00,56.0,0.0
-Mecklenburg-Vorpommern,2020-03-18 21:00:00,56.0,0.0
-Niedersachsen,2020-03-01 00:00:00,1,0.0
-Niedersachsen,2020-03-02 00:00:00,1,0.0
-Niedersachsen,2020-03-03 00:00:00,2,0.0
-Niedersachsen,2020-03-04 00:00:00,7,0.0
-Niedersachsen,2020-03-05 00:00:00,18,0.0
-Niedersachsen,2020-03-06 00:00:00,18,0.0
-Niedersachsen,2020-03-07 00:00:00,19,0.0
-Niedersachsen,2020-03-08 00:00:00,21,0.0
-Niedersachsen,2020-03-09 00:00:00,38,0.0
-Niedersachsen,2020-03-10 00:00:00,49,0.0
-Niedersachsen,2020-03-11 00:00:00,75,0.0
-Niedersachsen,2020-03-12 00:00:00,129,0.0
-Niedersachsen,2020-03-13 21:00:00,230.0,0.0
-Niedersachsen,2020-03-14 16:01:00,230.0,0.0
-Niedersachsen,2020-03-14 21:00:00,253.0,0.0
-Niedersachsen,2020-03-15 13:48:00,253.0,0.0
-Niedersachsen,2020-03-15 13:50:00,253.0,0.0
-Niedersachsen,2020-03-15 13:55:00,253.0,0.0
-Niedersachsen,2020-03-15 14:00:00,253.0,0.0
-Niedersachsen,2020-03-15 14:33:00,253.0,0.0
-Niedersachsen,2020-03-15 21:00:00,287.0,0.0
-Niedersachsen,2020-03-16 14:00:00,287.0,0.0
-Niedersachsen,2020-03-16 21:00:00,391.0,0.0
-Niedersachsen,2020-03-17 14:00:00,391.0,0.0
-Niedersachsen,2020-03-18 17:48:00,478.0,0.0
-Niedersachsen,2020-03-18 20:37:00,478.0,0.0
-Niedersachsen,2020-03-18 21:00:00,478.0,0.0
-Nordrhein-Westfalen,2020-02-29 00:00:00,30,0.0
-Nordrhein-Westfalen,2020-03-01 00:00:00,74,0.0
-Nordrhein-Westfalen,2020-03-02 00:00:00,86,0.0
-Nordrhein-Westfalen,2020-03-03 00:00:00,103,0.0
-Nordrhein-Westfalen,2020-03-04 00:00:00,115,0.0
-Nordrhein-Westfalen,2020-03-05 00:00:00,181,0.0
-Nordrhein-Westfalen,2020-03-06 00:00:00,329,0.0
-Nordrhein-Westfalen,2020-03-07 00:00:00,373,0.0
-Nordrhein-Westfalen,2020-03-08 00:00:00,398,0.0
-Nordrhein-Westfalen,2020-03-09 00:00:00,484,0.0
-Nordrhein-Westfalen,2020-03-10 00:00:00,484,0.0
-Nordrhein-Westfalen,2020-03-11 00:00:00,484,0.0
-Nordrhein-Westfalen,2020-03-12 00:00:00,688,3.0
-Nordrhein-Westfalen,2020-03-13 21:00:00,936.0,3.0
-Nordrhein-Westfalen,2020-03-14 16:01:00,936.0,3.0
-Nordrhein-Westfalen,2020-03-14 21:00:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 13:48:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 13:50:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 13:55:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 14:00:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 14:33:00,1.1540000000000001,5.0
-Nordrhein-Westfalen,2020-03-15 21:00:00,1.4069999999999998,5.0
-Nordrhein-Westfalen,2020-03-16 14:00:00,1.4069999999999998,5.0
-Nordrhein-Westfalen,2020-03-16 21:00:00,1.541,5.0
-Nordrhein-Westfalen,2020-03-17 14:00:00,1.541,5.0
-Nordrhein-Westfalen,2020-03-18 17:48:00,2.372,6.0
-Nordrhein-Westfalen,2020-03-18 20:37:00,2.372,6.0
-Nordrhein-Westfalen,2020-03-18 21:00:00,2.372,6.0
-Repatriierte,2020-02-29 00:00:00,2,0.0
-Repatriierte,2020-03-01 00:00:00,2,0.0
-Repatriierte,2020-03-02 00:00:00,2,0.0
-Rheinland-Pfalz,2020-02-29 00:00:00,1,0.0
-Rheinland-Pfalz,2020-03-01 00:00:00,2,0.0
-Rheinland-Pfalz,2020-03-02 00:00:00,2,0.0
-Rheinland-Pfalz,2020-03-03 00:00:00,2,0.0
-Rheinland-Pfalz,2020-03-04 00:00:00,7,0.0
-Rheinland-Pfalz,2020-03-05 00:00:00,8,0.0
-Rheinland-Pfalz,2020-03-06 00:00:00,10,0.0
-Rheinland-Pfalz,2020-03-07 00:00:00,13,0.0
-Rheinland-Pfalz,2020-03-08 00:00:00,19,0.0
-Rheinland-Pfalz,2020-03-09 00:00:00,17,0.0
-Rheinland-Pfalz,2020-03-10 00:00:00,25,0.0
-Rheinland-Pfalz,2020-03-11 00:00:00,25,0.0
-Rheinland-Pfalz,2020-03-12 00:00:00,52,0.0
-Rheinland-Pfalz,2020-03-13 21:00:00,102.0,0.0
-Rheinland-Pfalz,2020-03-14 16:01:00,102.0,0.0
-Rheinland-Pfalz,2020-03-14 21:00:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 13:48:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 13:50:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 13:55:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 14:00:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 14:33:00,121.0,0.0
-Rheinland-Pfalz,2020-03-15 21:00:00,168.0,0.0
-Rheinland-Pfalz,2020-03-16 14:00:00,168.0,0.0
-Rheinland-Pfalz,2020-03-16 21:00:00,325.0,0.0
-Rheinland-Pfalz,2020-03-17 14:00:00,325.0,0.0
-Rheinland-Pfalz,2020-03-18 17:48:00,474.0,0.0
-Rheinland-Pfalz,2020-03-18 20:37:00,474.0,0.0
-Rheinland-Pfalz,2020-03-18 21:00:00,474.0,0.0
-Saarland,2020-03-04 00:00:00,1,0.0
-Saarland,2020-03-05 00:00:00,1,0.0
-Saarland,2020-03-06 00:00:00,2,0.0
-Saarland,2020-03-07 00:00:00,3,0.0
-Saarland,2020-03-08 00:00:00,4,0.0
-Saarland,2020-03-09 00:00:00,6,0.0
-Saarland,2020-03-10 00:00:00,7,0.0
-Saarland,2020-03-11 00:00:00,14,0.0
-Saarland,2020-03-12 00:00:00,14,0.0
-Saarland,2020-03-13 21:00:00,40.0,0.0
-Saarland,2020-03-14 16:01:00,40.0,0.0
-Saarland,2020-03-14 21:00:00,40.0,0.0
-Saarland,2020-03-15 13:48:00,40.0,0.0
-Saarland,2020-03-15 13:50:00,40.0,0.0
-Saarland,2020-03-15 13:55:00,40.0,0.0
-Saarland,2020-03-15 14:00:00,40.0,0.0
-Saarland,2020-03-15 14:33:00,40.0,0.0
-Saarland,2020-03-15 21:00:00,32.0,0.0
-Saarland,2020-03-16 14:00:00,32.0,0.0
-Saarland,2020-03-16 21:00:00,85.0,0.0
-Saarland,2020-03-17 14:00:00,85.0,0.0
-Saarland,2020-03-18 17:48:00,88.0,0.0
-Saarland,2020-03-18 20:37:00,88.0,0.0
-Saarland,2020-03-18 21:00:00,88.0,0.0
-Sachsen,2020-03-03 00:00:00,1,0.0
-Sachsen,2020-03-04 00:00:00,1,0.0
-Sachsen,2020-03-05 00:00:00,1,0.0
-Sachsen,2020-03-06 00:00:00,2,0.0
-Sachsen,2020-03-07 00:00:00,4,0.0
-Sachsen,2020-03-08 00:00:00,7,0.0
-Sachsen,2020-03-09 00:00:00,12,0.0
-Sachsen,2020-03-10 00:00:00,22,0.0
-Sachsen,2020-03-11 00:00:00,26,0.0
-Sachsen,2020-03-12 00:00:00,45,0.0
-Sachsen,2020-03-13 21:00:00,83.0,0.0
-Sachsen,2020-03-14 16:01:00,83.0,0.0
-Sachsen,2020-03-14 21:00:00,93.0,0.0
-Sachsen,2020-03-15 13:48:00,93.0,0.0
-Sachsen,2020-03-15 13:50:00,93.0,0.0
-Sachsen,2020-03-15 13:55:00,93.0,0.0
-Sachsen,2020-03-15 14:00:00,93.0,0.0
-Sachsen,2020-03-15 14:33:00,93.0,0.0
-Sachsen,2020-03-15 21:00:00,130.0,0.0
-Sachsen,2020-03-16 14:00:00,130.0,0.0
-Sachsen,2020-03-16 21:00:00,140.0,0.0
-Sachsen,2020-03-17 14:00:00,140.0,0.0
-Sachsen,2020-03-18 17:48:00,198.0,0.0
-Sachsen,2020-03-18 20:37:00,198.0,0.0
-Sachsen,2020-03-18 21:00:00,198.0,0.0
-Sachsen-Anhalt,2020-03-10 00:00:00,7,0.0
-Sachsen-Anhalt,2020-03-11 00:00:00,15,0.0
-Sachsen-Anhalt,2020-03-12 00:00:00,27,0.0
-Sachsen-Anhalt,2020-03-13 21:00:00,42.0,0.0
-Sachsen-Anhalt,2020-03-14 16:01:00,42.0,0.0
-Sachsen-Anhalt,2020-03-14 21:00:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 13:48:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 13:50:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 13:55:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 14:00:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 14:33:00,45.0,0.0
-Sachsen-Anhalt,2020-03-15 21:00:00,47.0,0.0
-Sachsen-Anhalt,2020-03-16 14:00:00,47.0,0.0
-Sachsen-Anhalt,2020-03-16 21:00:00,77.0,0.0
-Sachsen-Anhalt,2020-03-17 14:00:00,77.0,0.0
-Sachsen-Anhalt,2020-03-18 17:48:00,105.0,0.0
-Sachsen-Anhalt,2020-03-18 20:37:00,105.0,0.0
-Sachsen-Anhalt,2020-03-18 21:00:00,105.0,0.0
-Schleswig Holstein,2020-02-29 00:00:00,1,0.0
-Schleswig Holstein,2020-03-01 00:00:00,2,0.0
-Schleswig Holstein,2020-03-02 00:00:00,2,0.0
-Schleswig Holstein,2020-03-03 00:00:00,2,0.0
-Schleswig Holstein,2020-03-04 00:00:00,2,0.0
-Schleswig Holstein,2020-03-05 00:00:00,7,0.0
-Schleswig Holstein,2020-03-06 00:00:00,7,0.0
-Schleswig Holstein,2020-03-07 00:00:00,8,0.0
-Schleswig Holstein,2020-03-08 00:00:00,9,0.0
-Schleswig-Holstein,2020-03-09 00:00:00,9,0.0
-Schleswig-Holstein,2020-03-10 00:00:00,9,0.0
-Schleswig-Holstein,2020-03-11 00:00:00,27,0.0
-Schleswig-Holstein,2020-03-12 00:00:00,31,0.0
-Schleswig-Holstein,2020-03-13 21:00:00,48.0,0.0
-Schleswig-Holstein,2020-03-14 16:01:00,48.0,0.0
-Schleswig-Holstein,2020-03-14 21:00:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 13:48:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 13:50:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 13:55:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 14:00:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 14:33:00,60.0,0.0
-Schleswig-Holstein,2020-03-15 21:00:00,103.0,0.0
-Schleswig-Holstein,2020-03-16 14:00:00,103.0,0.0
-Schleswig-Holstein,2020-03-16 21:00:00,123.0,0.0
-Schleswig-Holstein,2020-03-17 14:00:00,123.0,0.0
-Schleswig-Holstein,2020-03-18 17:48:00,159.0,0.0
-Schleswig-Holstein,2020-03-18 20:37:00,159.0,0.0
-Schleswig-Holstein,2020-03-18 21:00:00,159.0,0.0
-Thüringen,2020-03-03 00:00:00,1,0.0
-Thüringen,2020-03-04 00:00:00,1,0.0
-Thüringen,2020-03-05 00:00:00,1,0.0
-Thüringen,2020-03-06 00:00:00,1,0.0
-Thüringen,2020-03-07 00:00:00,2,0.0
-Thüringen,2020-03-08 00:00:00,2,0.0
-Thüringen,2020-03-09 00:00:00,2,0.0
-Thüringen,2020-03-10 00:00:00,4,0.0
-Thüringen,2020-03-11 00:00:00,10,0.0
-Thüringen,2020-03-12 00:00:00,14,0.0
-Thüringen,2020-03-13 21:00:00,29.0,0.0
-Thüringen,2020-03-14 16:01:00,29.0,0.0
-Thüringen,2020-03-14 21:00:00,46.0,0.0
-Thüringen,2020-03-15 13:48:00,46.0,0.0
-Thüringen,2020-03-15 13:50:00,46.0,0.0
-Thüringen,2020-03-15 13:55:00,46.0,0.0
-Thüringen,2020-03-15 14:00:00,46.0,0.0
-Thüringen,2020-03-15 14:33:00,46.0,0.0
-Thüringen,2020-03-15 21:00:00,51.0,0.0
-Thüringen,2020-03-16 14:00:00,51.0,0.0
-Thüringen,2020-03-16 21:00:00,55.0,0.0
-Thüringen,2020-03-17 14:00:00,55.0,0.0
-Thüringen,2020-03-18 17:48:00,74.0,0.0
-Thüringen,2020-03-18 20:37:00,74.0,0.0
-Thüringen,2020-03-18 21:00:00,74.0,0.0
+Baden-Württemberg,2020-02-29,14,0.0
+Baden-Württemberg,2020-03-01,15,0.0
+Baden-Württemberg,2020-03-02,19,0.0
+Baden-Württemberg,2020-03-03,28,0.0
+Baden-Württemberg,2020-03-04,50,0.0
+Baden-Württemberg,2020-03-05,73,0.0
+Baden-Württemberg,2020-03-06,96,0.0
+Baden-Württemberg,2020-03-07,170,0.0
+Baden-Württemberg,2020-03-08,182,0.0
+Baden-Württemberg,2020-03-09,204,0.0
+Baden-Württemberg,2020-03-10,237,0.0
+Baden-Württemberg,2020-03-11,277,0.0
+Baden-Württemberg,2020-03-12,454,1.0
+Baden-Württemberg,2020-03-13,454.0,1.0
+Baden-Württemberg,2020-03-14,569.0,2.0
+Baden-Württemberg,2020-03-15,827.0,3.0
+Baden-Württemberg,2020-03-16,827.0,3.0
+Baden-Württemberg,2020-03-17,1.105,3.0
+Baden-Württemberg,2020-03-18,1.609,2.0
+Bayern,2020-02-29,15,0.0
+Bayern,2020-03-01,23,0.0
+Bayern,2020-03-02,25,0.0
+Bayern,2020-03-03,37,0.0
+Bayern,2020-03-04,48,0.0
+Bayern,2020-03-05,70,0.0
+Bayern,2020-03-06,117,0.0
+Bayern,2020-03-07,134,0.0
+Bayern,2020-03-08,172,0.0
+Bayern,2020-03-09,256,0.0
+Bayern,2020-03-10,314,0.0
+Bayern,2020-03-11,366,0.0
+Bayern,2020-03-12,500,1.0
+Bayern,2020-03-13,558.0,1.0
+Bayern,2020-03-14,681.0,1.0
+Bayern,2020-03-15,886.0,4.0
+Bayern,2020-03-16,886.0,5.0
+Bayern,2020-03-17,1.067,5.0
+Bayern,2020-03-18,1.2429999999999999,4.0
+Berlin,2020-03-02,1,0.0
+Berlin,2020-03-03,3,0.0
+Berlin,2020-03-04,7,0.0
+Berlin,2020-03-05,13,0.0
+Berlin,2020-03-06,19,0.0
+Berlin,2020-03-07,28,0.0
+Berlin,2020-03-08,40,0.0
+Berlin,2020-03-09,48,0.0
+Berlin,2020-03-10,48,0.0
+Berlin,2020-03-11,90,0.0
+Berlin,2020-03-12,137,0.0
+Berlin,2020-03-13,174.0,0.0
+Berlin,2020-03-14,216.0,0.0
+Berlin,2020-03-15,265.0,0.0
+Berlin,2020-03-16,300.0,0.0
+Berlin,2020-03-17,300.0,0.0
+Berlin,2020-03-18,391.0,0.0
+Brandenburg,2020-03-03,1,0.0
+Brandenburg,2020-03-04,1,0.0
+Brandenburg,2020-03-05,1,0.0
+Brandenburg,2020-03-06,2,0.0
+Brandenburg,2020-03-07,2,0.0
+Brandenburg,2020-03-08,4,0.0
+Brandenburg,2020-03-09,6,0.0
+Brandenburg,2020-03-10,9,0.0
+Brandenburg,2020-03-11,24,0.0
+Brandenburg,2020-03-12,30,0.0
+Brandenburg,2020-03-13,44.0,0.0
+Brandenburg,2020-03-14,61.0,0.0
+Brandenburg,2020-03-15,84.0,0.0
+Brandenburg,2020-03-16,94.0,0.0
+Brandenburg,2020-03-17,94.0,0.0
+Brandenburg,2020-03-18,92.0,0.0
+Bremen,2020-03-01,1,0.0
+Bremen,2020-03-02,1,0.0
+Bremen,2020-03-03,2,0.0
+Bremen,2020-03-04,3,0.0
+Bremen,2020-03-05,3,0.0
+Bremen,2020-03-06,4,0.0
+Bremen,2020-03-07,4,0.0
+Bremen,2020-03-08,4,0.0
+Bremen,2020-03-09,4,0.0
+Bremen,2020-03-10,4,0.0
+Bremen,2020-03-11,21,0.0
+Bremen,2020-03-12,38,0.0
+Bremen,2020-03-13,42.0,0.0
+Bremen,2020-03-14,50.0,0.0
+Bremen,2020-03-15,53.0,0.0
+Bremen,2020-03-16,56.0,0.0
+Bremen,2020-03-17,56.0,0.0
+Bremen,2020-03-18,69.0,0.0
+Hamburg,2020-03-01,1,0.0
+Hamburg,2020-03-02,1,0.0
+Hamburg,2020-03-03,2,0.0
+Hamburg,2020-03-04,3,0.0
+Hamburg,2020-03-05,5,0.0
+Hamburg,2020-03-06,11,0.0
+Hamburg,2020-03-07,13,0.0
+Hamburg,2020-03-08,13,0.0
+Hamburg,2020-03-09,17,0.0
+Hamburg,2020-03-10,29,0.0
+Hamburg,2020-03-11,48,0.0
+Hamburg,2020-03-12,88,0.0
+Hamburg,2020-03-13,99.0,0.0
+Hamburg,2020-03-14,158.0,0.0
+Hamburg,2020-03-15,162.0,0.0
+Hamburg,2020-03-16,260.0,0.0
+Hamburg,2020-03-17,260.0,0.0
+Hamburg,2020-03-18,358.0,0.0
+Hessen,2020-02-29,3,0.0
+Hessen,2020-03-01,8,0.0
+Hessen,2020-03-02,10,0.0
+Hessen,2020-03-03,12,0.0
+Hessen,2020-03-04,12,0.0
+Hessen,2020-03-05,14,0.0
+Hessen,2020-03-06,16,0.0
+Hessen,2020-03-07,17,0.0
+Hessen,2020-03-08,19,0.0
+Hessen,2020-03-09,26,0.0
+Hessen,2020-03-10,35,0.0
+Hessen,2020-03-11,48,0.0
+Hessen,2020-03-12,99,0.0
+Hessen,2020-03-13,148.0,0.0
+Hessen,2020-03-14,203.0,0.0
+Hessen,2020-03-15,286.0,0.0
+Hessen,2020-03-16,342.0,0.0
+Hessen,2020-03-17,342.0,0.0
+Hessen,2020-03-18,432.0,0.0
+Mecklenburg-Vorpommern,2020-03-04,4,0.0
+Mecklenburg-Vorpommern,2020-03-05,4,0.0
+Mecklenburg-Vorpommern,2020-03-06,5,0.0
+Mecklenburg-Vorpommern,2020-03-07,5,0.0
+Mecklenburg-Vorpommern,2020-03-08,8,0.0
+Mecklenburg-Vorpommern,2020-03-09,10,0.0
+Mecklenburg-Vorpommern,2020-03-10,13,0.0
+Mecklenburg-Vorpommern,2020-03-11,17,0.0
+Mecklenburg-Vorpommern,2020-03-12,23,0.0
+Mecklenburg-Vorpommern,2020-03-13,33.0,0.0
+Mecklenburg-Vorpommern,2020-03-14,45.0,0.0
+Mecklenburg-Vorpommern,2020-03-15,50.0,0.0
+Mecklenburg-Vorpommern,2020-03-16,51.0,0.0
+Mecklenburg-Vorpommern,2020-03-17,51.0,0.0
+Mecklenburg-Vorpommern,2020-03-18,56.0,0.0
+Niedersachsen,2020-03-01,1,0.0
+Niedersachsen,2020-03-02,1,0.0
+Niedersachsen,2020-03-03,2,0.0
+Niedersachsen,2020-03-04,7,0.0
+Niedersachsen,2020-03-05,18,0.0
+Niedersachsen,2020-03-06,18,0.0
+Niedersachsen,2020-03-07,19,0.0
+Niedersachsen,2020-03-08,21,0.0
+Niedersachsen,2020-03-09,38,0.0
+Niedersachsen,2020-03-10,49,0.0
+Niedersachsen,2020-03-11,75,0.0
+Niedersachsen,2020-03-12,129,0.0
+Niedersachsen,2020-03-13,230.0,0.0
+Niedersachsen,2020-03-14,253.0,0.0
+Niedersachsen,2020-03-15,287.0,0.0
+Niedersachsen,2020-03-16,391.0,0.0
+Niedersachsen,2020-03-17,391.0,0.0
+Niedersachsen,2020-03-18,478.0,0.0
+Nordrhein-Westfalen,2020-02-29,30,0.0
+Nordrhein-Westfalen,2020-03-01,74,0.0
+Nordrhein-Westfalen,2020-03-02,86,0.0
+Nordrhein-Westfalen,2020-03-03,103,0.0
+Nordrhein-Westfalen,2020-03-04,115,0.0
+Nordrhein-Westfalen,2020-03-05,181,0.0
+Nordrhein-Westfalen,2020-03-06,329,0.0
+Nordrhein-Westfalen,2020-03-07,373,0.0
+Nordrhein-Westfalen,2020-03-08,398,0.0
+Nordrhein-Westfalen,2020-03-09,484,0.0
+Nordrhein-Westfalen,2020-03-10,484,0.0
+Nordrhein-Westfalen,2020-03-11,484,0.0
+Nordrhein-Westfalen,2020-03-12,688,3.0
+Nordrhein-Westfalen,2020-03-13,936.0,3.0
+Nordrhein-Westfalen,2020-03-14,936.0,5.0
+Nordrhein-Westfalen,2020-03-15,1.4069999999999998,5.0
+Nordrhein-Westfalen,2020-03-16,1.541,5.0
+Nordrhein-Westfalen,2020-03-17,1.541,5.0
+Nordrhein-Westfalen,2020-03-18,2.372,6.0
+Repatriierte,2020-02-29,2,0.0
+Repatriierte,2020-03-01,2,0.0
+Repatriierte,2020-03-02,2,0.0
+Rheinland-Pfalz,2020-02-29,1,0.0
+Rheinland-Pfalz,2020-03-01,2,0.0
+Rheinland-Pfalz,2020-03-02,2,0.0
+Rheinland-Pfalz,2020-03-03,2,0.0
+Rheinland-Pfalz,2020-03-04,7,0.0
+Rheinland-Pfalz,2020-03-05,8,0.0
+Rheinland-Pfalz,2020-03-06,10,0.0
+Rheinland-Pfalz,2020-03-07,13,0.0
+Rheinland-Pfalz,2020-03-08,19,0.0
+Rheinland-Pfalz,2020-03-09,17,0.0
+Rheinland-Pfalz,2020-03-10,25,0.0
+Rheinland-Pfalz,2020-03-11,25,0.0
+Rheinland-Pfalz,2020-03-12,52,0.0
+Rheinland-Pfalz,2020-03-13,102.0,0.0
+Rheinland-Pfalz,2020-03-14,121.0,0.0
+Rheinland-Pfalz,2020-03-15,168.0,0.0
+Rheinland-Pfalz,2020-03-16,325.0,0.0
+Rheinland-Pfalz,2020-03-17,325.0,0.0
+Rheinland-Pfalz,2020-03-18,474.0,0.0
+Saarland,2020-03-04,1,0.0
+Saarland,2020-03-05,1,0.0
+Saarland,2020-03-06,2,0.0
+Saarland,2020-03-07,3,0.0
+Saarland,2020-03-08,4,0.0
+Saarland,2020-03-09,6,0.0
+Saarland,2020-03-10,7,0.0
+Saarland,2020-03-11,14,0.0
+Saarland,2020-03-12,14,0.0
+Saarland,2020-03-13,40.0,0.0
+Saarland,2020-03-14,40.0,0.0
+Saarland,2020-03-15,40.0,0.0
+Saarland,2020-03-16,85.0,0.0
+Saarland,2020-03-17,85.0,0.0
+Saarland,2020-03-18,88.0,0.0
+Sachsen,2020-03-03,1,0.0
+Sachsen,2020-03-04,1,0.0
+Sachsen,2020-03-05,1,0.0
+Sachsen,2020-03-06,2,0.0
+Sachsen,2020-03-07,4,0.0
+Sachsen,2020-03-08,7,0.0
+Sachsen,2020-03-09,12,0.0
+Sachsen,2020-03-10,22,0.0
+Sachsen,2020-03-11,26,0.0
+Sachsen,2020-03-12,45,0.0
+Sachsen,2020-03-13,83.0,0.0
+Sachsen,2020-03-14,93.0,0.0
+Sachsen,2020-03-15,130.0,0.0
+Sachsen,2020-03-16,140.0,0.0
+Sachsen,2020-03-17,140.0,0.0
+Sachsen,2020-03-18,198.0,0.0
+Sachsen-Anhalt,2020-03-10,7,0.0
+Sachsen-Anhalt,2020-03-11,15,0.0
+Sachsen-Anhalt,2020-03-12,27,0.0
+Sachsen-Anhalt,2020-03-13,42.0,0.0
+Sachsen-Anhalt,2020-03-14,45.0,0.0
+Sachsen-Anhalt,2020-03-15,47.0,0.0
+Sachsen-Anhalt,2020-03-16,77.0,0.0
+Sachsen-Anhalt,2020-03-17,77.0,0.0
+Sachsen-Anhalt,2020-03-18,105.0,0.0
+Schleswig Holstein,2020-02-29,1,0.0
+Schleswig Holstein,2020-03-01,2,0.0
+Schleswig Holstein,2020-03-02,2,0.0
+Schleswig Holstein,2020-03-03,2,0.0
+Schleswig Holstein,2020-03-04,2,0.0
+Schleswig Holstein,2020-03-05,7,0.0
+Schleswig Holstein,2020-03-06,7,0.0
+Schleswig Holstein,2020-03-07,8,0.0
+Schleswig Holstein,2020-03-08,9,0.0
+Schleswig-Holstein,2020-03-09,9,0.0
+Schleswig-Holstein,2020-03-10,9,0.0
+Schleswig-Holstein,2020-03-11,27,0.0
+Schleswig-Holstein,2020-03-12,31,0.0
+Schleswig-Holstein,2020-03-13,48.0,0.0
+Schleswig-Holstein,2020-03-14,60.0,0.0
+Schleswig-Holstein,2020-03-15,103.0,0.0
+Schleswig-Holstein,2020-03-16,123.0,0.0
+Schleswig-Holstein,2020-03-17,123.0,0.0
+Schleswig-Holstein,2020-03-18,159.0,0.0
+Thüringen,2020-03-03,1,0.0
+Thüringen,2020-03-04,1,0.0
+Thüringen,2020-03-05,1,0.0
+Thüringen,2020-03-06,1,0.0
+Thüringen,2020-03-07,2,0.0
+Thüringen,2020-03-08,2,0.0
+Thüringen,2020-03-09,2,0.0
+Thüringen,2020-03-10,4,0.0
+Thüringen,2020-03-11,10,0.0
+Thüringen,2020-03-12,14,0.0
+Thüringen,2020-03-13,29.0,0.0
+Thüringen,2020-03-14,46.0,0.0
+Thüringen,2020-03-15,51.0,0.0
+Thüringen,2020-03-16,55.0,0.0
+Thüringen,2020-03-17,55.0,0.0
+Thüringen,2020-03-18,74.0,0.0
