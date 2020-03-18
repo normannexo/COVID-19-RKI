@@ -1,18 +1,18 @@
-,Bundesland,date,confirmed,deaths
-0,Baden-Württemberg,2020-03-15 14:00:00,569,2
-1,Bayern,2020-03-15 14:00:00,681,1
-2,Berlin,2020-03-15 14:00:00,216,
-3,Brandenburg,2020-03-15 14:00:00,61,
-4,Bremen,2020-03-15 14:00:00,50,
-5,Hamburg,2020-03-15 14:00:00,158,
-6,Hessen,2020-03-15 14:00:00,203,
-7,Mecklenburg-Vorpommern,2020-03-15 14:00:00,45,
-8,Niedersachsen,2020-03-15 14:00:00,253,
-9,Nordrhein-Westfalen,2020-03-15 14:00:00,1.154,5
-10,Rheinland-Pfalz,2020-03-15 14:00:00,121,
-11,Saarland,2020-03-15 14:00:00,40,
-12,Sachsen,2020-03-15 14:00:00,93,
-13,Sachsen-Anhalt,2020-03-15 14:00:00,45,
-14,Schleswig-Holstein,2020-03-15 14:00:00,60,
-15,Thüringen,2020-03-15 14:00:00,46,
-16,Gesamt,2020-03-15 14:00:00,3.795,8
+Bundesland,date,confirmed,deaths
+Baden-Württemberg,2020-03-15 14:00:00,569,2
+Bayern,2020-03-15 14:00:00,681,1
+Berlin,2020-03-15 14:00:00,216,
+Brandenburg,2020-03-15 14:00:00,61,
+Bremen,2020-03-15 14:00:00,50,
+Hamburg,2020-03-15 14:00:00,158,
+Hessen,2020-03-15 14:00:00,203,
+Mecklenburg-Vorpommern,2020-03-15 14:00:00,45,
+Niedersachsen,2020-03-15 14:00:00,253,
+Nordrhein-Westfalen,2020-03-15 14:00:00,1.154,5
+Rheinland-Pfalz,2020-03-15 14:00:00,121,
+Saarland,2020-03-15 14:00:00,40,
+Sachsen,2020-03-15 14:00:00,93,
+Sachsen-Anhalt,2020-03-15 14:00:00,45,
+Schleswig-Holstein,2020-03-15 14:00:00,60,
+Thüringen,2020-03-15 14:00:00,46,
+Gesamt,2020-03-15 14:00:00,3.795,8

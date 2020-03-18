@@ -1,18 +1,18 @@
-,Bundesland,date,confirmed,deaths
-0,Baden-Württemberg,2020-03-16 21:00:00,1.105,3
-1,Bayern,2020-03-16 21:00:00,1.067,5
-2,Berlin,2020-03-16 21:00:00,300,
-3,Brandenburg,2020-03-16 21:00:00,94,
-4,Bremen,2020-03-16 21:00:00,56,
-5,Hamburg,2020-03-16 21:00:00,260,
-6,Hessen,2020-03-16 21:00:00,342,
-7,Mecklenburg-Vorpommern,2020-03-16 21:00:00,51,
-8,Niedersachsen,2020-03-16 21:00:00,391,
-9,Nordrhein-Westfalen,2020-03-16 21:00:00,1.541,5
-10,Rheinland-Pfalz,2020-03-16 21:00:00,325,
-11,Saarland,2020-03-16 21:00:00,85,
-12,Sachsen,2020-03-16 21:00:00,140,
-13,Sachsen-Anhalt,2020-03-16 21:00:00,77,
-14,Schleswig-Holstein,2020-03-16 21:00:00,123,
-15,Thüringen,2020-03-16 21:00:00,55,
-16,Gesamt,2020-03-16 21:00:00,6.012,13
+Bundesland,date,confirmed,deaths
+Baden-Württemberg,2020-03-16 21:00:00,1.105,3
+Bayern,2020-03-16 21:00:00,1.067,5
+Berlin,2020-03-16 21:00:00,300,
+Brandenburg,2020-03-16 21:00:00,94,
+Bremen,2020-03-16 21:00:00,56,
+Hamburg,2020-03-16 21:00:00,260,
+Hessen,2020-03-16 21:00:00,342,
+Mecklenburg-Vorpommern,2020-03-16 21:00:00,51,
+Niedersachsen,2020-03-16 21:00:00,391,
+Nordrhein-Westfalen,2020-03-16 21:00:00,1.541,5
+Rheinland-Pfalz,2020-03-16 21:00:00,325,
+Saarland,2020-03-16 21:00:00,85,
+Sachsen,2020-03-16 21:00:00,140,
+Sachsen-Anhalt,2020-03-16 21:00:00,77,
+Schleswig-Holstein,2020-03-16 21:00:00,123,
+Thüringen,2020-03-16 21:00:00,55,
+Gesamt,2020-03-16 21:00:00,6.012,13

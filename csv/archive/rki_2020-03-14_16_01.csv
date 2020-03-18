@@ -1,18 +1,18 @@
-,Bundesland,date,confirmed,deaths
-0,Baden-Württemberg,2020-03-14 16:01:00,454,1
-1,Bayern,2020-03-14 16:01:00,558,1
-2,Berlin,2020-03-14 16:01:00,174,
-3,Brandenburg,2020-03-14 16:01:00,44,
-4,Bremen,2020-03-14 16:01:00,42,
-5,Hamburg,2020-03-14 16:01:00,99,
-6,Hessen,2020-03-14 16:01:00,148,
-7,Mecklenburg-Vorpommern,2020-03-14 16:01:00,33,
-8,Niedersachsen,2020-03-14 16:01:00,230,
-9,Nordrhein-Westfalen,2020-03-14 16:01:00,936,3
-10,Rheinland-Pfalz,2020-03-14 16:01:00,102,
-11,Saarland,2020-03-14 16:01:00,40,
-12,Sachsen,2020-03-14 16:01:00,83,
-13,Sachsen-Anhalt,2020-03-14 16:01:00,42,
-14,Schleswig-Holstein,2020-03-14 16:01:00,48,
-15,Thüringen,2020-03-14 16:01:00,29,
-16,Gesamt,2020-03-14 16:01:00,3.062,5
+Bundesland,date,confirmed,deaths
+Baden-Württemberg,2020-03-14 16:01:00,454,1
+Bayern,2020-03-14 16:01:00,558,1
+Berlin,2020-03-14 16:01:00,174,
+Brandenburg,2020-03-14 16:01:00,44,
+Bremen,2020-03-14 16:01:00,42,
+Hamburg,2020-03-14 16:01:00,99,
+Hessen,2020-03-14 16:01:00,148,
+Mecklenburg-Vorpommern,2020-03-14 16:01:00,33,
+Niedersachsen,2020-03-14 16:01:00,230,
+Nordrhein-Westfalen,2020-03-14 16:01:00,936,3
+Rheinland-Pfalz,2020-03-14 16:01:00,102,
+Saarland,2020-03-14 16:01:00,40,
+Sachsen,2020-03-14 16:01:00,83,
+Sachsen-Anhalt,2020-03-14 16:01:00,42,
+Schleswig-Holstein,2020-03-14 16:01:00,48,
+Thüringen,2020-03-14 16:01:00,29,
+Gesamt,2020-03-14 16:01:00,3.062,5
