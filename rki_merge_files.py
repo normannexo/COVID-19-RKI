@@ -11,7 +11,7 @@ import os
 
 dir_path = os.path.dirname(os.path.abspath(__file__))
 
-CSVLOC=os.path.join(dir_path, 'csv', 'archiv')
+CSVLOC=os.path.join(dir_path, 'csv', 'archive')
 CSVOUT = os.path.join(dir_path, 'csv', 'rki_data.csv')
 
 # create empty data frame and fill with tables from archive:
@@ -23,14 +23,7 @@ for item in os.listdir(CSVLOC):
     else:
         print(item + " is no file")
 # further wrangling:
-df_data['date']=pd.to_datetime(df_data.date)
-df_data['date'] = df_data.date.dt.strftime('%Y-%m-%d')
-df_data['deaths'] = df_data.confirmed.str.extract(r'\((\d+)\)')
-df_data['confirmed'] = df_data.confirmed.str.replace(r'(\d+) \(\d+\)', r'\1')
-df_data['confirmed'] = df_data.confirmed.str.replace(r'\.', r'')
 df_data.deaths.replace({np.nan:0}, inplace=True)
-df_data = df_data.drop('Unnamed: 0', axis=1)
-df_data.drop_duplicates()
 df_data['date'] =pd.to_datetime(df_data.date)
 df_data = df_data.drop(df_data[df_data.Bundesland=='Gesamt'].index)
 df_data = df_data.drop(df_data[df_data.confirmed=='Fälle'].index)
