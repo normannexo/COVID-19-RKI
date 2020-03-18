@@ -22,6 +22,8 @@ df = pd.read_html(str(table))[0]
 print(df)
 df.columns = columns
 df['date'] = pd.to_datetime(curr_minute)
+df['confirmed']= df.confirmed.astype(str).str.replace(r'\.','').astype(int)
 print(df)
+df = df[['Bundesland','date', 'confirmed', 'deaths']]
 df.to_csv(csv_file)
 
