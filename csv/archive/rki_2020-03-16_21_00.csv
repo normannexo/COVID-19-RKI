@@ -1,6 +1,6 @@
 Bundesland,date,confirmed,deaths
-Baden-Württemberg,2020-03-16 21:00:00,1.105,3
-Bayern,2020-03-16 21:00:00,1.067,5
+Baden-Württemberg,2020-03-16 21:00:00,1105,3
+Bayern,2020-03-16 21:00:00,1067,5
 Berlin,2020-03-16 21:00:00,300,
 Brandenburg,2020-03-16 21:00:00,94,
 Bremen,2020-03-16 21:00:00,56,
@@ -8,11 +8,11 @@ Hamburg,2020-03-16 21:00:00,260,
 Hessen,2020-03-16 21:00:00,342,
 Mecklenburg-Vorpommern,2020-03-16 21:00:00,51,
 Niedersachsen,2020-03-16 21:00:00,391,
-Nordrhein-Westfalen,2020-03-16 21:00:00,1.541,5
+Nordrhein-Westfalen,2020-03-16 21:00:00,1541,5
 Rheinland-Pfalz,2020-03-16 21:00:00,325,
 Saarland,2020-03-16 21:00:00,85,
 Sachsen,2020-03-16 21:00:00,140,
 Sachsen-Anhalt,2020-03-16 21:00:00,77,
 Schleswig-Holstein,2020-03-16 21:00:00,123,
 Thüringen,2020-03-16 21:00:00,55,
-Gesamt,2020-03-16 21:00:00,6.012,13
+Gesamt,2020-03-16 21:00:00,6012,13
