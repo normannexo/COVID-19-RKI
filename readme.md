@@ -11,7 +11,7 @@ Data is updated on a daily basis and published in a csv file here: http://www.ne
 
 <table>
 <tr>
-<th>Bundesland</th><th>date</th><th>confirmed</th><th>deaths</th> 
+<th>Bundesland</th><th>date</th><th>confirmed</th><th>deaths</th>
 </tr>
 <tr>
 <td>name of federal state</td>
@@ -22,3 +22,5 @@ Data is updated on a daily basis and published in a csv file here: http://www.ne
 </table>
 
 http://github.com/normannexo/COVID-19-RKI/blob/master/csv/rki_data.csv
+
+- `clean_archive.py` - The Robert-Koch-Institut frequently changes the structure of the data table. This script tackles resulting problems with the historical csvs to fit the new structure.
