@@ -27,6 +27,7 @@ df_data.deaths.replace({np.nan:0}, inplace=True)
 df_data['date'] =pd.to_datetime(df_data.date).dt.date
 df_data = df_data.drop(df_data[df_data.Bundesland=='Gesamt'].index)
 df_data = df_data.drop(df_data[df_data.confirmed=='Fälle'].index)
+df_data.confirmed = df_data.confirmed.astype(int)
 # grouping to prevent duplicate entries for one day:
 df_data = df_data.groupby(['Bundesland','date']).agg({'confirmed':'max', 'deaths':'max'})
 
