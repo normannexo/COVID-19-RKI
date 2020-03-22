@@ -28,6 +28,12 @@ df_data['date'] =pd.to_datetime(df_data.date).dt.date
 df_data = df_data.drop(df_data[df_data.Bundesland=='Gesamt'].index)
 df_data = df_data.drop(df_data[df_data.confirmed=='Fälle'].index)
 df_data.confirmed = df_data.confirmed.astype(int)
+
+#fixing different spellings of SH and MV:
+df_data.Bundesland = df_data.Bundesland.str.strip()
+df_data.Bundesland = df_data.Bundesland.replace({'Schleswig Holstein':'Schleswig-Holstein'})
+
+
 # grouping to prevent duplicate entries for one day:
 df_data = df_data.groupby(['Bundesland','date']).agg({'confirmed':'max', 'deaths':'max'})
 
