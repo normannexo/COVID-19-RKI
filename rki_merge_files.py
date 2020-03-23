@@ -32,6 +32,8 @@ df_data.confirmed = df_data.confirmed.astype(int)
 #fixing different spellings of SH and MV:
 df_data.Bundesland = df_data.Bundesland.str.strip()
 df_data.Bundesland = df_data.Bundesland.replace({'Schleswig Holstein':'Schleswig-Holstein'})
+df_data.Bundesland = df_data.Bundesland.str.replace(r'[^A-Za-zÄÖÜäöüß-]', r'')
+
 
 
 # grouping to prevent duplicate entries for one day:
