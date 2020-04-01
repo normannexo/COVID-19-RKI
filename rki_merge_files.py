@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[23]:
-
 
 import pandas as pd
 import datetime
@@ -33,6 +29,7 @@ df_data.confirmed = df_data.confirmed.astype(int)
 df_data.Bundesland = df_data.Bundesland.str.strip()
 df_data.Bundesland = df_data.Bundesland.replace({'Schleswig Holstein':'Schleswig-Holstein'})
 df_data.Bundesland = df_data.Bundesland.str.replace(r'[^A-Za-zÄÖÜäöüß-]', r'')
+df_data.deaths = df_data.deaths.astype(int)
 
 
 
