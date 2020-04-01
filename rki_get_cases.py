@@ -17,12 +17,22 @@ soupurl = requests.get(url).text
 soup = BeautifulSoup(soupurl, 'html.parser')
 main = soup.find('div', {'id':'main'})
 table = main.find('table')
-columns = ['Bundesland', 'confirmed', 'confirmed_diff','extra',  'deaths', 'extra2']
+
+# first row of table contains header "Bundesland", "Elektronisch übermittelte Fälle"
+row = table.select_one('tr')
+row.decompose()
+
+# 01.04.2020: deletetd extra column Extra2
+columns = ['Bundesland', 'confirmed', 'confirmed_diff','extra',  'deaths']
 df = pd.read_html(str(table), thousands= '.',decimal=',')[0]
-print(df)
+#print(df)
 df.columns = columns
 df['date'] = pd.to_datetime(curr_minute)
 df['confirmed']= df.confirmed.astype(str).str.replace(r'\.','').astype(int)
+#remove soft hyphen from Bundesland:
+df.Bundesland = df.Bundesland.str.replace(r'[^A-Za-zÄÖÜäöüß-]', r'')
+
+
 print(df)
 df = df[['Bundesland','date', 'confirmed', 'deaths']]
 df.to_csv(csv_file)
